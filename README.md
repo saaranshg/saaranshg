@@ -33,5 +33,6 @@
 <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ab1576bbe6d84ab0b4b9bc31bc064f41/ni-multisim.png" alt="MultiSim" width="45" height="40"/></p>
 
 
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saaranshg&show_icons=true&locale=en&layout=compact" alt="saaranshg" /></p>
+
 
