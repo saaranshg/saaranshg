@@ -35,6 +35,27 @@
 <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_ab1576bbe6d84ab0b4b9bc31bc064f41/ni-multisim.png" alt="MultiSim" width="45" height="40"/></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saaranshg&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="saaranshg" /></p>
+## 📈 GitHub Stats
 
+<div align="center">
+<a href="https://github.com/saaranshg">
 
+<img src="https://github-readme-stats.vercel.app/api?username=saaranshg&show_icons=true&theme=tokyonight"  height="50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saaranshg&theme=tokyonight" height="50%" />
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhruvsaini&theme=tokyonight&layout=compact" >
+
+</details>
+  
+<hr></hr>
+
+**The Dev Journey**<br>
+
+![snake gif](https://github.com/saaranshg/saaranshg/blob/output/github-snake-dark.svg)
+
+</div>
