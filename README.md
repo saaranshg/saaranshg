@@ -2,8 +2,6 @@
 <h3 align="center">A passionate AI & Robotics Enthusiast</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saaranshg&label=Profile%20views&color=0e75b6&style=flat" alt="saaranshg" /> </p>
-
 - 🎓 Pursuing **B.Tech in Electronics & Communication Engineering (Specialization: AI & Cybernetics)**
   
 - 🔭 Recent Project: **Rapid Rescue – IoT-Based Smart Ambulance System**
