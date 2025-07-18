@@ -40,8 +40,7 @@
 <div align="center">
 <a href="https://github.com/saaranshg">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saaranshg&show_icons=true&theme=tokyonight"  height="50%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saaranshg&theme=tokyonight" height="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=saaranshg&show_icons=true&theme=tokyonight"  height="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaranshg&theme=tokyonight" height="50%" />
 
 </a>
 
