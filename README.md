@@ -13,8 +13,8 @@
 - 🤖 Passionate about **Automating Devices with AI, Computer Vision, and Embedded Systems**
   
 - 🌱 Currently Gaining knowledge in **Advanced AI Applications & Real-Time Embedded Systems and IoT**
-  
-- 👯 Open to collaborations on **AI & ML, Embedded System Projects, IoT Solutions, and Computer Vision Innovations**
+
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Open to collaborations on **AI & ML, Embedded System Projects, IoT Solutions, and Computer Vision Innovations** <br>
   
 - 💡 A keen and fast learner, fastly adapt with new technologies and love to explore and implement them in real world problems.
   
@@ -54,7 +54,7 @@
   
 <hr></hr>
 
-**The Dev Journey**<br>
+**The Dev Journey 👨‍💻**<br>
 
 ![snake gif](https://github.com/iamdhruvsaini/iamdhruvsaini/blob/output/github-snake-dark.svg)
 
