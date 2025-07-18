@@ -12,7 +12,7 @@
   
 - 🤖 Passionate about **Automating Devices with AI, Computer Vision, and Embedded Systems**
   
-- 🌱 Currently Gaining knowledge in **Advanced AI Applications & Real-Time Embedded Systems and IoT**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Currently Gaining knowledge in **Advanced AI Applications & Real-Time Embedded Systems and IoT**<br>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Open to collaborations on **AI & ML, Embedded System Projects, IoT Solutions, and Computer Vision Innovations** <br>
   
