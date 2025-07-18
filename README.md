@@ -40,14 +40,15 @@
 <div align="center">
 <a href="https://github.com/saaranshg">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saaranshg&show_icons=true&theme=tokyonight"  height="50%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saaranshg&theme=tokyonight" height="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=saaranshg&show_icons=true&theme=tokyonight"  height="50%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saaranshg&theme=tokyonight" height="50%" />
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhruvsaini&theme=tokyonight&layout=compact" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaranshg&theme=tokyonight&layout=compact" >
 
 </details>
   
