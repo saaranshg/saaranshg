@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋, I'm Saaransh Gupta </h1>
 
-<div align="center" width = "100">
+<div align="center" >
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=A+passionate+AI+and+Robotics+Enthusiast;Always+Learn+and+Try+New+Things)](https://git.io/typing-svg)
   
