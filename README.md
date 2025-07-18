@@ -1,5 +1,7 @@
 <h1 align="center">Hey there👋, I'm Saaransh Gupta </h1>
-<h3 align="center">A passionate AI & Robotics Enthusiast</h3>
+
+
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=400&lines=A+passionate+AI+&+Robotics+Enthusiast;Open+Source+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)</h3>
 
 
 - 🎓 Pursuing **B.Tech in Electronics & Communication Engineering (Specialization: AI & Cybernetics)**
